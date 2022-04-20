@@ -2,6 +2,8 @@
 
 Overview of git commands.
 Text added on main branch to create a merge conflict.
+
+
 ### Basic Commands
 * `git init` - initialize a local git repo
 * `git add` - stage files/folders for commit
