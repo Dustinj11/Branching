@@ -2,6 +2,9 @@
 
 Overview of git commands.
 
+Git rocks!
+more text here. (test)
+
 ### Basic Commands
 * `git init` - initialize a local git repo
 * `git add` - stage files/folders for commit
