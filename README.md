@@ -11,3 +11,9 @@ Text added on main branch to create a merge conflict.
 * `git status` - statis of local workspace
 * `git log` - show log of commits
 * `git log --oneline` - show compact log of commits
+* `git config -l` list git configuration
+
+### Branching Commands
+* `git branch` - list local branches
+* `git branch branchName` - create branch `branchName`
+* `git checkout branchName` - switch to branchName
